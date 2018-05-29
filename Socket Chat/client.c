@@ -4,6 +4,7 @@
 
 /*
     ATTENTION: Do not delete the "messages" folder within the directory of the source files.
+    If there is not such a folder, then create it.
 */
 
 /*
